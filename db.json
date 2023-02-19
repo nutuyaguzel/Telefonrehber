@@ -1,0 +1,37 @@
+{
+    "persons":[
+        {
+            "id":"1",
+            "firstName":"Seda",
+            "lastName":"Güzel",
+            "phoneNumber":"12345"
+
+        },
+        {
+            "id":"2",
+            "firstName":"Neda",
+            "lastName":"Güzel",
+            "phoneNumber":"67890"
+
+        },
+        {
+            "id":"3",
+            "firstName":"Orhan",
+            "lastName":"Güzel",
+            "phoneNumber":"146049"
+
+            
+        },
+        {
+            "id":"4",
+            "firstName":"Nutuya",
+            "lastName":"Güzel",
+            "phoneNumber":"146025"
+
+            
+        }
+
+
+    ]
+    
+}
